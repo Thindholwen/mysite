@@ -1,0 +1,112 @@
+body {
+	color: #000305;
+	font-size: 80%;
+	font-family: 'Lucida Sans Unicode';
+	line-height: 1.5;
+	text-align: left;
+}
+
+a{
+	text-decoloration: none;
+}
+
+a:link, a:visited{
+	color: #457261;
+}
+
+a:hover, a:active{
+	color: #797979;
+}
+
+.notabody{
+	margin: 0 auto;
+	width: 75%;
+	clear:both;
+}
+
+.MainHeader img {
+	margin-left: 20%;
+}
+
+.MainHeader nav {
+	background-color: #700000;
+	height: 40px;
+	border-radius: 7px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+}
+
+.MainHeader nav ul{
+	list-style: none;
+	margin: 0 auto;
+}
+
+.MainHeader nav ul li{
+	float left;
+	display:inline;
+}
+
+.MainHeader nav a:link, .MainHeader nav a:visited{
+	color: #FFF;
+	display: inline-block;
+	padding: 10px 25px;
+	height: 20px;
+}
+
+.MainHeader nav .active a:link,
+.MainHeader nav .active a:visited,
+.MainHeader nav a:hover,
+.MainHeader nav a:active{
+	background-color: #797979;
+	text-shadow: none;
+}
+
+.InfoCostado{
+	width: 25%;
+	float: left;
+	margin: 1% 0% 1% 0%;
+	border-radius: 7px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+	background-color: #F8F8F8;
+}
+
+.ContenidoPrincipal {
+	line-height: 20px;
+	border-radius: 7px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+}
+
+.Contenido{
+	width: 70%;
+	float: right;
+	padding: 2% 2%;
+	background-color: #F8F8F8;
+	margin: 1% 0% 1% 1%;
+	border-radius: 7px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+}
+
+.InfoPost{
+	font-style: italic;
+	font-size: 75%;
+	color: #989898
+}
+
+.FooterPrincipal {
+	width: 100%;
+	float: left;
+	margin-bottom: 2%;
+	border-radius: 7px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+	background-color: #700000; 
+}
+
+.FooterPrincipal p{
+	color: #FFF;
+	width: 92%;
+	margin:1% auto;
+}
