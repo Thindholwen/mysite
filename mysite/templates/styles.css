@@ -29,7 +29,7 @@ a:hover, a:active{
 }
 
 .MainHeader nav {
-	background-color: #700000;
+	background-color: #774177;
 	height: 40px;
 	border-radius: 7px;
 	-webkit-border-radius:7px;
@@ -57,7 +57,7 @@ a:hover, a:active{
 .MainHeader nav .active a:visited,
 .MainHeader nav a:hover,
 .MainHeader nav a:active{
-	background-color: #797979;
+	background-color: #926692;
 	text-shadow: none;
 }
 
@@ -102,7 +102,7 @@ a:hover, a:active{
 	border-radius: 7px;
 	-webkit-border-radius:7px;
 	-moz-border-radius:7px;
-	background-color: #700000; 
+	background-color: #774177; 
 }
 
 .FooterPrincipal p{
